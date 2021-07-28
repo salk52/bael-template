@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bael, a free Nuxt / NetlifyCMS powered blog template
+title: Moj novi blog
 date: Tuesday February 13th, 2018
 thumbnail: /images/uploads/obuka.jpg
 category: Design
